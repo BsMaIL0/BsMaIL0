@@ -55,14 +55,14 @@
 
 | Проект | Описание | Ключевая технология | Ссылка на код |
 | :--- | :--- | :--- | :--- |
-| **Roman Calculator** | Калькулятор выражений с римскими цифрами (ОПН, стек без STL) | Обратная польская нотация, конвертация римских чисел | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/roman_calculator) |
-| **Matrix Calculator** | Вычисление определителя и обратной матрицы методом Гаусса/Гаусса-Жордана | Без STL, численные методы, выбор главного элемента | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/matrix_calculator) |
-| **Calendar** | Печать календаря на месяц или год (3 колонки, кварталы) | Без STL, формула Зеллера, сложное форматирование | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/calendar) |
-| **Day of Week** | Определение дня недели по дате и поиск следующей пятницы | Без STL, юлианские дни, формула Зеллера | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/day_of_week) |
-| **Number Converter** | Конвертер чисел между системами счисления (2–20) | `long long`, валидация ввода, ООП | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/number_converter) |
-| **Points in Circle** | Подсчёт целочисленных точек в окружности радиуса до 2·10⁹ | Оптимизация O(R), предотвращение переполнений | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/points_in_circle) |
-| **Inverted Tower** | Определение этажа комнаты в башне с группировкой этажей | 64-битная арифметика, математическая группировка | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/inverted_tower) |
-| **Guessing Game** | Консольная игра с подсказками (горячо/холодно) и выбором сложности | Обработка ошибок, модульная архитектура, `enum class` | [🔗 Посмотреть](https://github.com/BsMaIL0/BsMaIL0/blob/main/projects/guessing_game) |
+| **Roman Calculator** | Калькулятор выражений с римскими цифрами (ОПН, стек без STL) | Обратная польская нотация, конвертация римских чисел | [🔗 Посмотреть](https://github.com/BsMaIL0/romanCalc) |
+| **Matrix Calculator** | Вычисление определителя и обратной матрицы методом Гаусса/Гаусса-Жордана | Без STL, численные методы, выбор главного элемента | [🔗 Посмотреть](https://github.com/BsMaIL0/matrixCalc) |
+| **Calendar** | Печать календаря на месяц или год (3 колонки, кварталы) | Без STL, формула Зеллера, сложное форматирование | [🔗 Посмотреть](https://github.com/BsMaIL0/calendar) |
+| **Day of Week** | Определение дня недели по дате и поиск следующей пятницы | Без STL, юлианские дни, формула Зеллера | [🔗 Посмотреть](https://github.com/BsMaIL0/dayOfWeek) |
+| **Number Converter** | Конвертер чисел между системами счисления (2–20) | `long long`, валидация ввода, ООП | [🔗 Посмотреть](https://github.com/BsMaIL0/number-converter) |
+| **Points in Circle** | Подсчёт целочисленных точек в окружности радиуса до 2·10⁹ | Оптимизация O(R), предотвращение переполнений | [🔗 Посмотреть](https://github.com/BsMaIL0/points-in-circle) |
+| **Inverted Tower** | Определение этажа комнаты в башне с группировкой этажей | 64-битная арифметика, математическая группировка | [🔗 Посмотреть](https://github.com/BsMaIL0/inverted-tower-rooms) |
+| **Guessing Game** | Консольная игра с подсказками (горячо/холодно) и выбором сложности | Обработка ошибок, модульная архитектура, `enum class` | [🔗 Посмотреть](https://github.com/BsMaIL0/number-guessing-game) |
 
 ---
 
