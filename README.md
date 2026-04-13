@@ -1,13 +1,13 @@
 # Константин Фомин
 
-**Младший стажёр C++** | Санкт-Петербург / удалённо
+**Cтажёр C++** | Санкт-Петербург / удалённо · 📞 +7 (905) 265-50-33
 
-[![Telegram](https://img.shields.io/badge/Telegram-@kfom_in-blue?logo=telegram&style=for-the-badge)](https://t.me/kfom_in)
-[![GitHub](https://img.shields.io/badge/GitHub-BsMaIL0-black?logo=github&style=for-the-badge)](https://github.com/BsMaIL0)
-[![Codewars](https://img.shields.io/badge/Codewars-BsMaIL-red?logo=codewars&style=for-the-badge)](https://www.codewars.com/users/BsMaIL)
-![Email](https://img.shields.io/badge/Email-fomin.konstantin.04%40mail.ru-blue?logo=mail.ru&style=for-the-badge)
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus&style=for-the-badge)](https://isocpp.org/)
-📞 +7 (905) 265-50-33 &nbsp;|&nbsp; 📍 Санкт-Петербург
+[![Telegram](https://img.shields.io/badge/Telegram-@kfom_in-blue?logo=telegram&style=flat-square)](https://t.me/kfom_in)
+[![GitHub](https://img.shields.io/badge/GitHub-BsMaIL0-black?logo=github&style=flat-square)](https://github.com/BsMaIL0)
+[![Codewars](https://img.shields.io/badge/Codewars-BsMaIL-red?logo=codewars&style=flat-square)](https://www.codewars.com/users/BsMaIL)
+[![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus&style=flat-square)](https://isocpp.org/)
+
+[![Codewars Badge](https://www.codewars.com/users/BsMaIL/badges/large)](https://www.codewars.com/users/BsMaIL)
 
 ## ⚔️ Codewars
 
