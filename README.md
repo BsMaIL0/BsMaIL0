@@ -9,14 +9,6 @@
 
 [![Codewars Badge](https://www.codewars.com/users/BsMaIL/badges/large)](https://www.codewars.com/users/BsMaIL)
 
-## ⚔️ Codewars
-
-<div align="center">
-  
-![Codewars Rank](https://www.codewars.com/users/BsMaIL/badges/large)
-
-</div>
-
 ---
 
 ## 🔹 О себе
