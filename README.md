@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@kfom_in-blue?logo=telegram&style=for-the-badge)](https://t.me/kfom_in)
 [![GitHub](https://img.shields.io/badge/GitHub-BsMaIL0-black?logo=github&style=for-the-badge)](https://github.com/BsMaIL0)
 [![Codewars](https://img.shields.io/badge/Codewars-BsMaIL-red?logo=codewars&style=for-the-badge)](https://www.codewars.com/users/BsMaIL)
-[![Email](https://img.shields.io/badge/Email-fomin.konstantin.04%40mail.ru-blue?logo=mail.ru&style=for-the-badge)](mailto:fomin.konstantin.04@mail.ru)
+[![Email](https://img.shields.io/badge/Email-fomin.konstantin.04%40mail.ru-blue?logo=mail.ru&style=for-the-badge)](https://mail.ru)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus&style=for-the-badge)](https://isocpp.org/)
 📞 +7 (905) 265-50-33 &nbsp;|&nbsp; 📍 Санкт-Петербург
 
