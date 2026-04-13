@@ -9,6 +9,16 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus&style=for-the-badge)](https://isocpp.org/)
 📞 +7 (905) 265-50-33 &nbsp;|&nbsp; 📍 Санкт-Петербург
 
+## ⚔️ Codewars
+
+<div align="center">
+  
+![Codewars Rank](https://www.codewars.com/users/BsMaIL/badges/large)
+  
+![Codewars Stats](https://www.codewars.com/users/BsMaIL/badges/big)
+
+</div>
+
 ---
 
 ## 🔹 О себе
