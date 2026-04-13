@@ -14,8 +14,6 @@
 <div align="center">
   
 ![Codewars Rank](https://www.codewars.com/users/BsMaIL/badges/large)
-  
-![Codewars Stats](https://www.codewars.com/users/BsMaIL/badges/big)
 
 </div>
 
