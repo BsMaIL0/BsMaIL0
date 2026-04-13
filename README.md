@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-BsMaIL0-black?logo=github&style=for-the-badge)](https://github.com/BsMaIL0)
 [![Codewars](https://img.shields.io/badge/Codewars-BsMaIL-red?logo=codewars&style=for-the-badge)](https://www.codewars.com/users/BsMaIL)
 [![Email](https://img.shields.io/badge/Email-fomin.konstantin.04%40mail.ru-blue?logo=mail.ru&style=for-the-badge)](mailto:fomin.konstantin.04@mail.ru)
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue)]
 
 📞 +7 (905) 265-50-33 &nbsp;|&nbsp; 📍 Санкт-Петербург
 
