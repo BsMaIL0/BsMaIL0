@@ -85,6 +85,8 @@
 | :--- | :--- | :--- | :--- |
 | **Calculator (1 спринт)** | Консольный калькулятор: +, -, *, /, **, память (s/l), установка (:), сброс (c), вывод (=). Обработка ошибок ввода | Классы, потоки ввода/вывода, `std::pow` | [🔗 Посмотреть](https://github.com/BsMaIL0/sprint1-calculator) |
 
+📊 **Мой прогресс:** [yandexPracticumTask](https://github.com/BsMaIL0/yandexPracticumTask)
+
 ---
 
 
