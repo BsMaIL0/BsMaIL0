@@ -27,6 +27,14 @@
 
 ---
 
+## 📊 GitHub статистика
+
+![BsMaIL0's GitHub stats](https://github-readme-stats.vercel.app/api?username=BsMaIL0&show_icons=true&theme=dark&locale=ru)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BsMaIL0&layout=compact&theme=dark&locale=ru)
+
+---
+
 ## 🔧 Технический стек
 
 | Категория | Технологии |
