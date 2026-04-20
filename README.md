@@ -86,11 +86,6 @@
 | Проект | Описание | Стек | Ссылка на код
 | :--- | :--- | :--- | :--- |
 | **Guessing Game** | Консольная игра с подсказками (горячо/холодно) и выбором сложности | Обработка ошибок, модульная архитектура, `enum class` | [🔗 Посмотреть](https://github.com/BsMaIL0/number-guessing-game) |
-| **Alarm Clock** | Десктопный будильник с установкой времени, выбором мелодии и визуальным/звуковым оповещением. | Qt (GUI, Multimedia), QTimer, QMediaPlayer | [🔗 Посмотреть](https://github.com/BsMaIL0/alarmClock) |
-| **Photo Album** | Приложение для просмотра изображений (фотоальбом) с навигацией по папкам, превью и полноэкранным режимом. | Qt (GUI, Widgets), QGraphicsView, файловая система | [🔗 Посмотреть](https://github.com/BsMaIL0/photoAlbumQt) |
-| **Video Player** | Проигрыватель видеофайлов с элементами управления: play/pause, ползунок времени, регулировка громкости. | Qt (GUI, Multimedia), QVideoWidget, QSlider | [🔗 Посмотреть](https://github.com/BsMaIL0/videoPlayer) |
-| **Calendar & Horoscope** | Календарь с возможностью выбора даты и отображением гороскопа на выбранный день (или месяц). | Qt (GUI), QCalendarWidget, работа с датами | [🔗 Посмотреть](https://github.com/BsMaIL0/calendarHoroscope) |
-| **Date Formatter** | Утилита для преобразования форматов даты (например, YYYY-MM-DD → DD.MM.YYYY) через GUI. | Qt (GUI), QString, парсинг дат | [🔗 formatDate](https://github.com/BsMaIL0/formatDate)
 
 ---
 
@@ -101,6 +96,11 @@
 | Проект | Описание | Стек | Ссылка на код
 | :--- | :--- | :--- | :--- |
 | **Calculator (1 спринт)** | Консольный калькулятор: +, -, *, /, **, память (s/l), установка (:), сброс (c), вывод (=). Обработка ошибок ввода | Классы, потоки ввода/вывода, `std::pow` | [🔗 Посмотреть](https://github.com/BsMaIL0/sprint1-calculator) |
+| **Alarm Clock** | Десктопный будильник с установкой времени, выбором мелодии и визуальным/звуковым оповещением. | Qt (GUI, Multimedia), QTimer, QMediaPlayer | [🔗 Посмотреть](https://github.com/BsMaIL0/alarmClock) |
+| **Photo Album** | Приложение для просмотра изображений (фотоальбом) с навигацией по папкам, превью и полноэкранным режимом. | Qt (GUI, Widgets), QGraphicsView, файловая система | [🔗 Посмотреть](https://github.com/BsMaIL0/photoAlbumQt) |
+| **Video Player** | Проигрыватель видеофайлов с элементами управления: play/pause, ползунок времени, регулировка громкости. | Qt (GUI, Multimedia), QVideoWidget, QSlider | [🔗 Посмотреть](https://github.com/BsMaIL0/videoPlayer) |
+| **Calendar & Horoscope** | Календарь с возможностью выбора даты и отображением гороскопа на выбранный день (или месяц). | Qt (GUI), QCalendarWidget, работа с датами | [🔗 Посмотреть](https://github.com/BsMaIL0/calendarHoroscope) |
+| **Date Formatter** | Утилита для преобразования форматов даты (например, YYYY-MM-DD → DD.MM.YYYY) через GUI. | Qt (GUI), QString, парсинг дат | [🔗 formatDate](https://github.com/BsMaIL0/formatDate)
 
 📊 **Мой прогресс:** [yandexPracticumTask](https://github.com/BsMaIL0/yandexPracticumTask)
 
