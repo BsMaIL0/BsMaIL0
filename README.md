@@ -94,6 +94,7 @@
 | Проект | Описание | Стек | Ссылка на код
 | :--- | :--- | :--- | :--- |
 | **Calculator (1 спринт)** | Консольный калькулятор: +, -, *, /, **, память (s/l), установка (:), сброс (c), вывод (=). Обработка ошибок ввода | Классы, потоки ввода/вывода, `std::pow` | [🔗 Посмотреть](https://github.com/BsMaIL0/sprint1-calculator) |
+| **Qt Calculator (2 спринт)** | Десктопный калькулятор с GUI: арифметические операции (`+`, `-`, `*`, `/`), очистка (`C`), удаление последнего символа (`←`), обработка ошибок (деление на ноль, некорректный ввод). Реализована сигнально-слотовая архитектура Qt | Qt Widgets, C++17, CMake, QGridLayout, QLineEdit | [🔗 Посмотреть](https://github.com/BsMaIL0/Sprint-2-CalculatorQt) |
 | **Alarm Clock** | Десктопный будильник с установкой времени, выбором мелодии и визуальным/звуковым оповещением. | Qt (GUI, Multimedia), QTimer, QMediaPlayer | [🔗 Посмотреть](https://github.com/BsMaIL0/alarmClock) |
 | **Photo Album** | Приложение для просмотра изображений (фотоальбом) с навигацией по папкам, превью и полноэкранным режимом. | Qt (GUI, Widgets), QGraphicsView, файловая система | [🔗 Посмотреть](https://github.com/BsMaIL0/photoAlbumQt) |
 | **Video Player** | Проигрыватель видеофайлов с элементами управления: play/pause, ползунок времени, регулировка громкости. | Qt (GUI, Multimedia), QVideoWidget, QSlider | [🔗 Посмотреть](https://github.com/BsMaIL0/videoPlayer) |
