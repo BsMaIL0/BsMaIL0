@@ -31,8 +31,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BsMaIL0&show_icons=true&theme=dark&locale=ru)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BsMaIL0&theme=github-dark&area=true&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BsMaIL0&theme=dark&locale=ru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BsMaIL0&layout=compact&theme=dark&locale=ru)
